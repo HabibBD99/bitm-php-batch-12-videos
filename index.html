@@ -12,7 +12,7 @@
  
    <script>
 
-    for(var i=0; i<39; i++)
+    for(var i=0; i<courseDetails.length; i++)
     {
     
        document.write('<div class="container">');
@@ -28,13 +28,14 @@
                                 document.write('</video>');
                                 document.write('</div>');
                                 document.write('<div class="content-footer">');
-                                document.write('<a href="'+courseDetails[i].video+'" download="">Download</a>');  
-                              document.write('<p>'+courseDetails[i].description+'</p>')
+                                document.write('<a href="'+courseDetails[i].video+'" download="true">Download</a>');
+                              document.write('<p>'+courseDetails[i].description+'</p>');
                              document.write('</div>');
                          document.write('</div>');
                      document.write('</div>');
                  document.write('</div>');
             document.write('</div>');
+
     }
     
 

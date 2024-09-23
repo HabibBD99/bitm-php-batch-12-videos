@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../content"
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "../document"
+		}
+	],
+	"settings": {}
+}

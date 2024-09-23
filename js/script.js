@@ -317,24 +317,24 @@ const courseDetails = [
                   "a unde expedita obcaecati aliquam blanditiis? Excepturi alias officia voluptatibus similique? "
     },
     {
-        headline : "Web Design & Development Using PHP Laravel & JavaScript VueJS  Day 2.mp4",
-        video :  "./content/day-1/Web Design & Development Using PHP Laravel & JavaScript VueJS  Day 1.mp4",
+        headline : "Web Design & Development Using PHP Laravel & JavaScript VueJS  Day 41.mp4",
+        video :  "./Day 41 Web Design_Development Using PHP Laravel_JavaScript VueJS.mp4",
         description : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos, unde rem sapiente debitis,"+
                       'architecto pariatur tempora rerum atque aliquam dicta nihil incidunt repellat ducimus doloribus?'+
                       'Eaque vitae impedit voluptas? Molestias dolorum autem fuga amet saepe vitae dolor,voluptate labore'+ 
                       "a unde expedita obcaecati aliquam blanditiis? Excepturi alias officia voluptatibus similique? "
     },
    {
-    headline : "Web Design & Development Using PHP Laravel & JavaScript VueJS  Day 2.mp4",
-    video :  "./content/day-1/Web Design & Development Using PHP Laravel & JavaScript VueJS  Day 1.mp4",
+    headline : "Web Design & Development Using PHP Laravel & JavaScript VueJS  Day 41 A-.mp4",
+    video :  "./Day 41 A- Web Design_Development Using PHP Laravel_JavaScript VueJS.mp4",
     description : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos, unde rem sapiente debitis,"+
                   'architecto pariatur tempora rerum atque aliquam dicta nihil incidunt repellat ducimus doloribus?'+
                   'Eaque vitae impedit voluptas? Molestias dolorum autem fuga amet saepe vitae dolor,voluptate labore'+ 
                   "a unde expedita obcaecati aliquam blanditiis? Excepturi alias officia voluptatibus similique? "
     },
     {
-        headline : "Web Design & Development Using PHP Laravel & JavaScript VueJS  Day 2.mp4",
-        video :  "./content/day-1/Web Design & Development Using PHP Laravel & JavaScript VueJS  Day 1.mp4",
+        headline : "Web Design & Development Using PHP Laravel & JavaScript VueJS  Day 41 B-.mp4",
+        video :  "./Day 41 B- Web Design_Development Using PHP Laravel_JavaScript VueJS.mp4",
         description : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos, unde rem sapiente debitis,"+
                       'architecto pariatur tempora rerum atque aliquam dicta nihil incidunt repellat ducimus doloribus?'+
                       'Eaque vitae impedit voluptas? Molestias dolorum autem fuga amet saepe vitae dolor,voluptate labore'+ 
