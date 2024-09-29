@@ -10,8 +10,48 @@
 </head>
 <body>
  
-   <script>
+ <div class="videos_card"> 
+   <table border="1">
+    <script>
 
+        for(var i=0; i<courseDetails.length; i++)
+        {
+             //document.write('<tr>'); 
+             //document.write('<th>Videos Name</th>'); 
+            // document.write('</tr>'); 
+			 
+             document.write('<tr>')
+             document.write('<td><h3 class="H2">'+courseDetails[i].headline+'</h3></td>')
+             document.write('</tr>')
+			  
+			 
+			// document.write('<tr>');
+            // document.write('<th>Videos Path</th>'); 
+            // document.write('</tr>');
+			
+             document.write('<tr>');
+             document.write('<td><video src="'+courseDetails[i].video+'" class="Video" controls="true"></video></td>') 
+             document.write('</tr>');
+			 
+             //document.write('<tr>');
+             //document.write('<th>Description</th>'); 
+             //document.write('</tr>'); 
+			 
+			 
+             document.write('</tr>')
+             document.write('<td>'+courseDetails[i].description+'</td>')
+			 document.write('</tr>')
+            
+        }
+		
+     </script>
+   </table>
+  </div>
+
+ 
+
+   <script>
+/*
     for(var i=0; i<courseDetails.length; i++)
     {
     
@@ -38,7 +78,7 @@
 
     }
     
-
+*/
    </script>   
 
 

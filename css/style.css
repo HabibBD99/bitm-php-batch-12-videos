@@ -41,12 +41,17 @@ margin-left: 0%;
  line-height: 1.5;
  
 }
+.videos_card{
+ width: 650px;
+ margin: 0 auto; 
+ 
+}
 
 .Video {
 height: 250px;
-width: 80%;
+width: 450px;
 background-color: teal;
-margin-left: 10%;
+
 
 
 }

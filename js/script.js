@@ -339,7 +339,8 @@ const courseDetails = [
                       'architecto pariatur tempora rerum atque aliquam dicta nihil incidunt repellat ducimus doloribus?'+
                       'Eaque vitae impedit voluptas? Molestias dolorum autem fuga amet saepe vitae dolor,voluptate labore'+ 
                       "a unde expedita obcaecati aliquam blanditiis? Excepturi alias officia voluptatibus similique? "
-    },
+    }
+	/*
    {
     headline : "Web Design & Development Using PHP Laravel & JavaScript VueJS  Day 2.mp4",
     video :  "./content/day-1/Web Design & Development Using PHP Laravel & JavaScript VueJS  Day 1.mp4",
@@ -411,8 +412,8 @@ const courseDetails = [
                   'architecto pariatur tempora rerum atque aliquam dicta nihil incidunt repellat ducimus doloribus?'+
                   'Eaque vitae impedit voluptas? Molestias dolorum autem fuga amet saepe vitae dolor,voluptate labore'+ 
                   "a unde expedita obcaecati aliquam blanditiis? Excepturi alias officia voluptatibus similique? "
-    },
-
+    }
+*/
 
  ];
 
